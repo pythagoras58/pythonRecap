@@ -12,3 +12,6 @@ for i in bicycles:
 ## Modification: removals and inclusion for lists
 motorcycles = ['honda', 'yamaha', 'suzuki']
 print(f'List of Arrays : {motorcycles}')
+
+motorcycles.append('tata')
+print(f'New List of Arrays : {motorcycles}')
