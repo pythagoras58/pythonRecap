@@ -15,3 +15,7 @@ print(f'List of Arrays : {motorcycles}')
 
 motorcycles.append('tata')
 print(f'New List of Arrays : {motorcycles}')
+
+# insert at a location
+motorcycles.insert(0, 'Corrido')
+print(f'New List of Arrays : {motorcycles}')
