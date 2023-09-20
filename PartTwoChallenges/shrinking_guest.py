@@ -13,3 +13,12 @@
     list. Print your list to make sure you actually have an empty list at the end of
     your program
 """
+
+my_quests = ['Abigail','Rose','Abena', 'Yaa', 'Akosua']
+print('So sorry only 2 quests can be accommodated')
+
+while(len(my_quests) > 2):
+    my_quests.pop()
+
+for i in my_quests:
+    print(f'Hi {i}, You are welcome to this Party')

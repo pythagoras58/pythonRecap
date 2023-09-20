@@ -31,3 +31,4 @@ print(f'New List of Arrays - Pop : {popped_list}')
 motorcycles_rem = ['honda', 'yamaha', 'suzuki', 'ducati']
 motorcycles_rem.remove('ducati')
 print(motorcycles_rem)
+
