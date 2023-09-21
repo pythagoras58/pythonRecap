@@ -32,3 +32,7 @@ motorcycles_rem = ['honda', 'yamaha', 'suzuki', 'ducati']
 motorcycles_rem.remove('ducati')
 print(motorcycles_rem)
 
+# ===== array sorting =====
+cars =  ['bmw', 'audi', 'toyota', 'subaru']
+cars.sort(reverse=False)
+print(f'The sorted list --> {cars}')
