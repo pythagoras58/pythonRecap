@@ -16,3 +16,9 @@ pizzas.append("PizzaHut")
 pizzas.append("KFC")
 pizzas.append("Dominion")
 
+print("===========PIZZA LOVER==========")
+for i in pizzas:
+    print(f'I like {i} pizza')
+
+
+print("\n I really love pizza!")
