@@ -9,3 +9,4 @@ print(f'Mixed list: {mixed}')
 
 # ==== Methods =====
 print(f'Lenght : {len(players)}') # get the lenght of the list
+
