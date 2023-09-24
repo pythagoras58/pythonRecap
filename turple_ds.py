@@ -7,3 +7,10 @@ print(f'Nixed : {mixed}')
 
 
 # methods and operation.
+strikers = ("Kane", "Mbappe", "Muani","Haaland")
+print(f"Strikers : {strikers}")
+
+# Concatenations
+forwards = midfielders + strikers
+print(f"Values of the combined turples: {forwards}")
+
