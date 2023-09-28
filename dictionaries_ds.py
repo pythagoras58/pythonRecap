@@ -22,3 +22,12 @@ print(f'Apple List: {fruit_price["Apple"][1]}')
 #  methods
 fruit_price["Banana"] = 10 # update the value of a dictionary
 print(fruit_price)
+
+# add an item to the dictionary
+fruit_price["Orange"] = 40
+print(fruit_price)
+
+
+# delete or remove an item
+del fruit_price["Orange"]
+print(fruit_price)
